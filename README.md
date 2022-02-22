@@ -15,3 +15,4 @@ Il suffit d'aller dans "prgm", de sélectionner "Python App" puis "UNO-Ti" et de
 	3. Ouvrez Ti connect Ce
 	4. Sélectionnez les pages sur le menu à gauche
 	5. Glissez/Déposez le fichier "UNO-Ti.py"
+1. Item a 2. Item b

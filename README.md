@@ -10,8 +10,8 @@ Le script UNO_Ti dispose de 2 options:
 	2- Piocher, où le script vous rajoutera une carte aléatoirement en suivant les règles officielles
 
 Pour l'installer: 
-	1- Télécharger Ti connect Ce à cette adresse : https://education.ti.com/fr/produits/logiciel-ordinateur/ti-connect-ce-sw
-	2- Branché votre calculatrice
+	1- Téléchargez Ti connect Ce à cette adresse : https://education.ti.com/fr/produits/logiciel-ordinateur/ti-connect-ce-sw
+	2- Branchez votre calculatrice
 	3- Ouvrez Ti connect Ce
-	4- Sélectionner les pages sur le menu à gauche
+	4- Sélectionnez les pages sur le menu à gauche
 	5- Glissez/Déposez le fichier "UNO-Ti.py"
